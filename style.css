@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(204, 226, 204);
+}
+
+button {
+  height: 40px;
+  width: 100px;
+  font-size: 16px;
+  background-color: greenyellow;
+  border-radius: 20px;
+  border: 2px solid black;
+  margin-right: 10px;
+  box-shadow: 5px 5px rgb(211, 205, 205);
+}
+
+button a {
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+section {
+  text-align: center;
+}
+
+h1 {
+  color: green;
+  flood-opacity: 10px;
+  font-size: 54px;
+  margin-top: 5px;
+}
+
+h2 {
+  color: rgb(44, 73, 1);
+  font-style: italic;
+}
+
+h3 {
+  color: chartreuse;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+article {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.inputbutton {
+  font-size: 16px;
+  background-color: forestgreen;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px;
+  padding: 4px 5px;
+}
+
+#label {
+  background-color: antiquewhite;
+}
